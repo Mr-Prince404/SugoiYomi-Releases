@@ -1,0 +1,11 @@
+# Instaladores: se suben únicamente como assets de GitHub Releases.
+*.exe
+*.msi
+*.zip
+
+# Archivos internos o accidentales.
+node_modules/
+dist/
+target/
+*.log
+.env
