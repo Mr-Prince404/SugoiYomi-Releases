@@ -6,7 +6,7 @@
   ### Tu rincón de lectura para manga local, remoto y offline-first en Windows
 
   <p>
-    <a href="https://github.com/TU_USUARIO/SugoiYomi-Releases/releases/latest"><strong>⬇️ Descargar la última versión</strong></a>
+    <a href="https://github.com/Mr-Prince404/SugoiYomi-Releases/releases/latest"><strong>⬇️ Descargar la última versión</strong></a>
     ·
     <a href="#capturas">Ver capturas</a>
     ·
@@ -80,7 +80,7 @@ Este proyecto seguirá creciendo poco a poco: iré publicando actualizaciones en
 
 ## ⬇️ Instalación
 
-1. Entra a la sección de [Releases](https://github.com/TU_USUARIO/SugoiYomi-Releases/releases/latest).
+1. Entra a la sección de [Releases](https://github.com/Mr-Prince404/SugoiYomi-Releases/releases/latest).
 2. Descarga el archivo recomendado:
 
    ```text
