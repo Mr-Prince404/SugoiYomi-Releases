@@ -6,14 +6,14 @@
   ### Tu rincón de lectura para manga local, remoto y offline-first en Windows
 
   <p>
-    <a href="https://github.com/Mr-Prince404/SugoiYomi-Releases/releases/latest"><strong>⬇️ Descargar la última versión</strong></a>
-    ·
-    <a href="#capturas">Ver capturas</a>
-    ·
-    <a href="#apoyar-el-proyecto">Apoyar el proyecto</a>
-    ·
-    <a href="#reportar-un-problema">Reportar un problema</a>
-  </p>
+  <a href="https://github.com/Mr-Prince404/SugoiYomi-Releases/releases/latest"><strong>⬇️ Descargar la última versión</strong></a>
+  ·
+  <a href="#-capturas">Ver capturas</a>
+  ·
+  <a href="#-apoyar-el-proyecto">Apoyar el proyecto</a>
+  ·
+  <a href="#-reportar-un-problema">Reportar un problema</a>
+</p>
 
   ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-38bdf8?style=for-the-badge&logo=windows&logoColor=white)
   ![Versión](https://img.shields.io/badge/versión-1.0.0-a855f7?style=for-the-badge)
