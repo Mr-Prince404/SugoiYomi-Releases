@@ -84,7 +84,7 @@ Este proyecto seguirá creciendo poco a poco: iré publicando actualizaciones en
 2. Descarga el archivo recomendado:
 
    ```text
-   SugoiYomi_1.0.0_x64-setup.exe
+   SugoiYomi_1.0.1_x64-setup.exe
    ```
 
 3. Ejecuta el instalador.
