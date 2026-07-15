@@ -6,7 +6,7 @@
   ### Tu rincón de lectura para manga local, remoto y offline-first en Windows
 
   <p>
-    <a href="https://github.com/TU_USUARIO/SugoiYomi-Releases/releases/latest"><strong>⬇️ Descargar la última versión</strong></a>
+    <a href="https://github.com/Mr-Prince404/SugoiYomi-Releases/releases/latest"><strong>⬇️ Descargar la última versión</strong></a>
     ·
     <a href="#capturas">Ver capturas</a>
     ·
@@ -30,7 +30,6 @@ Puedes instalar fuentes, explorar obras, leer en modo página o cascada, guardar
 
 Este proyecto seguirá creciendo poco a poco: iré publicando actualizaciones enfocadas en estabilidad, optimización, experiencia de lectura y nuevas mejoras que realmente valgan la pena. ✨
 
-
 ---
 
 ## ✨ Lo que puedes hacer
@@ -46,8 +45,7 @@ Este proyecto seguirá creciendo poco a poco: iré publicando actualizaciones en
 
 ---
 
-## 🖼️ Capturas
-
+## Capturas
 
 <table>
   <tr>
@@ -80,7 +78,7 @@ Este proyecto seguirá creciendo poco a poco: iré publicando actualizaciones en
 
 ## ⬇️ Instalación
 
-1. Entra a la sección de [Releases](https://github.com/TU_USUARIO/SugoiYomi-Releases/releases/latest).
+1. Entra a la sección de [Releases](https://github.com/Mr-Prince404/SugoiYomi-Releases/releases/latest).
 2. Descarga el archivo recomendado:
 
    ```text
@@ -125,7 +123,7 @@ El proyecto está vivo y seguirá afinándose. Algunas líneas de trabajo previs
 
 ---
 
-## 💜 Apoyar el proyecto
+## Apoyar el proyecto
 
 SugoiYomi es un proyecto personal. Si te gusta, te resulta útil y quieres apoyar su desarrollo, una donación ayuda a cubrir tiempo, pruebas y futuras mejoras.
 
@@ -135,10 +133,9 @@ SugoiYomi es un proyecto personal. Si te gusta, te resulta útil y quieres apoya
   </a>
 </div>
 
-
 ---
 
-## 🐛 Reportar un problema
+## Reportar un problema
 
 ¿Encontraste un error, una fuente que dejó de funcionar o una mejora que te gustaría ver?
 
