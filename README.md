@@ -102,7 +102,7 @@ Este proyecto seguirá creciendo poco a poco: iré publicando actualizaciones en
 | Estilos | Tailwind CSS |
 | Lógica local | Rust |
 | Datos y progreso | SQLite / rusqlite |
-| Motor de fuentes | Core local basado en Suwayomi |
+| Motor de fuentes | Core local |
 | Comunicación interna | GraphQL local |
 | Runtime | Eclipse Temurin JRE 21 |
 | Descargas offline | CBZ / ZIP |
