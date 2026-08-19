@@ -16,7 +16,7 @@
   </p>
 
   ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-38bdf8?style=for-the-badge&logo=windows&logoColor=white)
-  ![Versión](https://img.shields.io/badge/versión-1.0.0-a855f7?style=for-the-badge)
+  ![Versión](https://img.shields.io/badge/versión-1.0.2-a855f7?style=for-the-badge)
   ![Estado](https://img.shields.io/badge/estado-en%20desarrollo-22c55e?style=for-the-badge)
 </div>
 
