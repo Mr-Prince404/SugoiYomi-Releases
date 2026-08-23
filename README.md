@@ -47,6 +47,20 @@ Este proyecto seguirá creciendo poco a poco, con actualizaciones enfocadas en r
 
 ---
 
+## 💬 Y bueno...
+
+<div align="center">
+
+<img src="docs/screenshots/chat-bubbles.svg" width="100%" alt="Burbujas animadas de SugoiYomi" />
+
+<br />
+
+<sub>Esa es un poco de la historia del comienzo</sub>
+
+</div>
+
+---
+
 ## ✨ Lo que puedes hacer
 
 * 📚 Organizar una biblioteca local y remota en un solo lugar.
@@ -60,19 +74,6 @@ Este proyecto seguirá creciendo poco a poco, con actualizaciones enfocadas en r
 
 ---
 
-## 💬 Y bueno...
-
-<div align="center">
-
-<img src="docs/screenshots/chat-bubbles.svg" width="100%" alt="Burbujas animadas de SugoiYomi" />
-
-<br />
-
-<sub>Una pequeña conversación visual sobre lo que hace especial a SugoiYomi.</sub>
-
-</div>
-
----
 
 ## Capturas
 
@@ -82,7 +83,7 @@ Este proyecto seguirá creciendo poco a poco, con actualizaciones enfocadas en r
 
 <br />
 
-<sub>Vista animada de las pantallas principales de SugoiYomi Desktop.</sub>
+<sub>Pantallas principales de SugoiYomi Desktop.</sub>
 
 </div>
 
@@ -260,7 +261,7 @@ Cada apoyo, reporte, sugerencia o persona que prueba SugoiYomi también ayuda al
 
 Elige el tipo de reporte que quieras crear:
 
-[**🐛 Reportar un error o ✨ proponer una mejora**](https://github.com/Mr-Prince404/SugoiYomi-Releases/issues/new/choose)
+[** Reportar un error o proponer una mejora**](https://github.com/Mr-Prince404/SugoiYomi-Releases/issues/new/choose)
 
 Los formularios te guiarán para incluir la información necesaria.
 
@@ -276,11 +277,11 @@ Cada persona es responsable del uso que dé a las fuentes instaladas y al conten
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Desarrollado por **Mr-Prince404**.
 
-Hecho con curiosidad, capricho, incontables pruebas, algunas madrugadas cuestionables y una obsesión por construir una experiencia de lectura bonita. 🌙
+Hecho con curiosidad, capricho, incontables pruebas, algunas madrugadas cuestionables y una obsesión por construir una experiencia de lectura bonita.
 
 ---
 
