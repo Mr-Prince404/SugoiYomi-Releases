@@ -13,7 +13,7 @@
     ·
     <a href="#apoyar-el-proyecto">Apoyar el proyecto</a>
     ·
-    <a href="#reportar-un-problema">Reportar un problema</a>
+    <a href="https://github.com/Mr-Prince404/SugoiYomi-Releases/issues/new/choose">Reportar un problema</a>
   </p>
 
   ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-38bdf8?style=for-the-badge&logo=windows&logoColor=white)
@@ -257,20 +257,15 @@ Cada apoyo, reporte, sugerencia o persona que prueba SugoiYomi también ayuda al
 
 ---
 
-## 🐛 Reportar un problema
+## Reportar un problema
 
-¿Encontraste un error, una fuente que dejó de funcionar o una mejora que te gustaría ver?
+¿Encontraste un error, una fuente que dejó de funcionar o tienes una idea para mejorar SugoiYomi?
 
-Abre un **Issue** en este repositorio e incluye, cuando sea posible:
+Elige el tipo de reporte que quieras crear:
 
-* Versión de SugoiYomi.
-* Sistema operativo.
-* Qué estabas intentando hacer.
-* Qué esperabas que ocurriera.
-* Qué ocurrió realmente.
-* Captura, video o registro si aplica.
+[**🐛 Reportar un error o ✨ proponer una mejora**](https://github.com/Mr-Prince404/SugoiYomi-Releases/issues/new/choose)
 
-Los reportes detallados hacen mucho más fácil encontrar y corregir problemas.
+Los formularios te guiarán para incluir la información necesaria.
 
 ---
 
