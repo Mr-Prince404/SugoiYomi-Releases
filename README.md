@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="docs/screenshots/icon.png" width="132" alt="Icono de SugoiYomi" />
+  <img src="docs/screenshots/git-banner.svg" width="100%" alt="Banner de SugoiYomi" />
 
 # SugoiYomi
 
@@ -20,10 +20,10 @@
     <a href="#reportar-un-problema">Reportar un problema</a>
   </p>
 
-![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-38bdf8?style=for-the-badge\&logo=windows\&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-38bdf8?style=for-the-badge&logo=windows&logoColor=white)
 ![Versión](https://img.shields.io/badge/versión-1.0.2-a855f7?style=for-the-badge)
-![Android](https://img.shields.io/badge/Android-en%20desarrollo-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-en%20desarrollo-111827?style=for-the-badge\&logo=apple\&logoColor=white)
+![Android](https://img.shields.io/badge/Android-en%20desarrollo-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-en%20desarrollo-111827?style=for-the-badge&logo=apple&logoColor=white)
 
 </div>
 
@@ -64,34 +64,31 @@ Este proyecto seguirá creciendo poco a poco, con actualizaciones enfocadas en r
 
 ---
 
+## 💬 Una mirada rápida
+
+<div align="center">
+
+<img src="docs/screenshots/chat-bubbles.svg" width="100%" alt="Burbujas animadas de SugoiYomi" />
+
+<br />
+
+<sub>Una pequeña conversación visual sobre lo que hace especial a SugoiYomi.</sub>
+
+</div>
+
+---
+
 ## Capturas
 
-<table>
-  <tr>
-    <td align="center"><strong>Biblioteca</strong></td>
-    <td align="center"><strong>Explorar</strong></td>
-  </tr>
-  <tr>
-    <td><img src="docs/screenshots/library.png" alt="Biblioteca de SugoiYomi" /></td>
-    <td><img src="docs/screenshots/explore.png" alt="Explorar fuentes y obras" /></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Ficha de obra</strong></td>
-    <td align="center"><strong>Fuentes instalables</strong></td>
-  </tr>
-  <tr>
-    <td><img src="docs/screenshots/content.png" alt="Ficha de obra" /></td>
-    <td><img src="docs/screenshots/extensions.png" alt="Fuentes y extensiones" /></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Catálogo</strong></td>
-    <td align="center"><strong>Lector</strong></td>
-  </tr>
-  <tr>
-    <td><img src="docs/screenshots/catalog.png" alt="Catálogo" /></td>
-    <td><img src="docs/screenshots/reader.png" alt="Lector de manga" /></td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="docs/screenshots/desktop-showcase.svg" width="100%" alt="Carrusel animado de capturas de SugoiYomi Desktop" />
+
+<br />
+
+<sub>Vista animada de las pantallas principales de SugoiYomi Desktop.</sub>
+
+</div>
 
 ---
 
@@ -102,7 +99,6 @@ Este proyecto seguirá creciendo poco a poco, con actualizaciones enfocadas en r
 La versión pública actual de SugoiYomi está disponible para **Windows 10 y Windows 11 de 64 bits**.
 
 1. Entra a la sección de [Releases](https://github.com/Mr-Prince404/SugoiYomi-Releases/releases/latest).
-
 2. Descarga el instalador recomendado:
 
    ```text
@@ -110,9 +106,7 @@ La versión pública actual de SugoiYomi está disponible para **Windows 10 y Wi
    ```
 
 3. Ejecuta el instalador.
-
 4. Abre SugoiYomi.
-
 5. Instala una fuente desde **Explorar** y empieza a construir tu biblioteca.
 
 ---
@@ -123,8 +117,8 @@ La versión pública actual de SugoiYomi está disponible para **Windows 10 y Wi
 
 ### La biblioteca está a punto de salir del escritorio.
 
-![Android](https://img.shields.io/badge/Android-EN%20DESARROLLO-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-EN%20DESARROLLO-111827?style=for-the-badge\&logo=apple\&logoColor=white)
+![Android](https://img.shields.io/badge/Android-EN%20DESARROLLO-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-EN%20DESARROLLO-111827?style=for-the-badge&logo=apple&logoColor=white)
 
 </div>
 
@@ -151,8 +145,8 @@ Entre los pilares de SugoiYomi Mobile se encuentran:
 
 <sub>Primer vistazo visual de SugoiYomi Mobile en Android e iOS.</sub>
 
-  <br />
-  <br />
+<br />
+<br />
 
 <img
  src="docs/screenshots/mobile-showcase.svg"
@@ -160,8 +154,8 @@ Entre los pilares de SugoiYomi Mobile se encuentran:
  width="100%"
 />
 
-  <br />
-  <br />
+<br />
+<br />
 
 <sub>Android e iOS están siendo desarrollados en paralelo como parte de una misma experiencia móvil.</sub>
 
