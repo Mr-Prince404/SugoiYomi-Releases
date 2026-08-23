@@ -1,0 +1,151 @@
+name: "🐛 Reportar un error"
+description: "¿Algo no salió como debería? Ayúdame a encontrarlo y corregirlo."
+title: "[Bug]: "
+labels:
+  - "bug"
+  - "triage"
+assignees: "Mr-Prince404"
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        <div align="center">
+
+        ### 🌙 SugoiYomi
+
+        **Gracias por tomarte el tiempo de reportar un problema.**
+
+        Tu reporte ayuda a mejorar la estabilidad, rendimiento y experiencia de lectura de SugoiYomi.
+
+        </div>
+
+        ---
+
+        Antes de continuar, intenta incluir toda la información posible.
+        Los reportes detallados son muchísimo más fáciles de reproducir y corregir.
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: "Plataforma"
+      description: "¿En qué plataforma ocurrió el problema?"
+      options:
+        - "Windows"
+        - "Android"
+        - "iOS"
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: "Versión de SugoiYomi"
+      description: "Indica la versión que estabas utilizando."
+      placeholder: "Ejemplo: 1.0.2"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: "Área afectada"
+      description: "Selecciona la sección donde encontraste el problema."
+      options:
+        - "Biblioteca"
+        - "Explorar"
+        - "Fuentes / Extensiones"
+        - "Ficha de obra"
+        - "Catálogo"
+        - "Lector"
+        - "Descargas"
+        - "Historial"
+        - "Importación / Exportación"
+        - "Inicio / Rendimiento"
+        - "Interfaz"
+        - "Otro"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "¿Qué ocurrió?"
+      description: "Describe claramente el problema que encontraste."
+      placeholder: |
+        Cuéntame qué estabas haciendo y qué comportamiento observaste.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: "Pasos para reproducirlo"
+      description: "Indica los pasos necesarios para volver a provocar el problema."
+      placeholder: |
+        1. Abrí SugoiYomi.
+        2. Entré a...
+        3. Seleccioné...
+        4. Ocurrió...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: "Comportamiento esperado"
+      description: "¿Qué debería haber ocurrido?"
+      placeholder: "Describe el resultado que esperabas."
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: "Comportamiento actual"
+      description: "¿Qué ocurrió realmente?"
+      placeholder: "Describe el resultado que obtuviste."
+    validations:
+      required: true
+
+  - type: textarea
+    id: media
+    attributes:
+      label: "Capturas, videos o registros"
+      description: |
+        Puedes arrastrar aquí capturas, videos o archivos de registro.
+        Si tienes logs relevantes, inclúyelos también.
+      placeholder: "Arrastra aquí los archivos o pega la información relevante."
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: "Información adicional"
+      description: "Cualquier otro detalle que pueda ayudar a entender el problema."
+      placeholder: |
+        ¿Ocurre siempre?
+        ¿Comenzó después de una actualización?
+        ¿Solo sucede con una fuente u obra concreta?
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: "Antes de enviar"
+      options:
+        - label: "He comprobado que no existe ya un Issue abierto describiendo este mismo problema."
+          required: true
+        - label: "He incluido la información necesaria para intentar reproducir el error."
+          required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+
+        💜 **Gracias por ayudar a mejorar SugoiYomi.**
+
+        Cada reporte bien documentado hace mucho más fácil detectar, reproducir y corregir problemas.

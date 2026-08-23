@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: "🌙 SugoiYomi Releases"
+    url: "https://github.com/Mr-Prince404/SugoiYomi-Releases/releases/latest"
+    about: "Consulta y descarga la versión pública más reciente de SugoiYomi."
+
+  - name: "💜 Apoyar SugoiYomi"
+    url: "https://ko-fi.com/mrprince404"
+    about: "Si te gusta el proyecto y quieres apoyar su desarrollo."

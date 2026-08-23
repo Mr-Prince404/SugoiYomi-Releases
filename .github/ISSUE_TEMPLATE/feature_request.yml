@@ -1,0 +1,131 @@
+name: "✨ Proponer una mejora"
+description: "¿Tienes una idea para SugoiYomi? Cuéntame qué te gustaría ver."
+title: "[Idea]: "
+labels:
+  - "enhancement"
+assignees: "Mr-Prince404"
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        <div align="center">
+
+        ### 🌙 SugoiYomi
+
+        **Las mejores mejoras suelen empezar con una buena idea.**
+
+        Si hay algo que podría hacer que SugoiYomi sea más cómodo, bonito,
+        rápido o agradable de usar, este es el lugar para proponerlo.
+
+        </div>
+
+        ---
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: "Plataforma"
+      description: "¿A qué plataforma está dirigida principalmente tu propuesta?"
+      options:
+        - "Todas las plataformas"
+        - "Windows"
+        - "Android"
+        - "iOS"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: "Área"
+      description: "¿Qué parte de SugoiYomi mejoraría esta propuesta?"
+      options:
+        - "Biblioteca"
+        - "Explorar"
+        - "Fuentes / Extensiones"
+        - "Ficha de obra"
+        - "Catálogo"
+        - "Lector"
+        - "Descargas"
+        - "Historial"
+        - "Importación / Exportación"
+        - "Personalización"
+        - "Accesibilidad"
+        - "Rendimiento"
+        - "Interfaz / Experiencia de usuario"
+        - "Otro"
+    validations:
+      required: true
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: "Tu propuesta"
+      description: "Describe la función o mejora que te gustaría ver."
+      placeholder: |
+        Me gustaría que SugoiYomi pudiera...
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: "¿Qué problema resolvería?"
+      description: |
+        Explica qué necesidad, limitación o inconveniente resolvería esta propuesta.
+      placeholder: |
+        Actualmente, cuando intento...
+        sería más cómodo si...
+    validations:
+      required: true
+
+  - type: textarea
+    id: experience
+    attributes:
+      label: "¿Cómo imaginas que debería funcionar?"
+      description: |
+        Describe la experiencia ideal desde el punto de vista del usuario.
+      placeholder: |
+        Por ejemplo:
+        1. El usuario entra a...
+        2. Selecciona...
+        3. SugoiYomi muestra...
+    validations:
+      required: false
+
+  - type: textarea
+    id: references
+    attributes:
+      label: "Referencias o ejemplos"
+      description: |
+        Puedes añadir capturas, diseños, aplicaciones de referencia o cualquier ejemplo visual.
+      placeholder: "Arrastra imágenes o pega referencias aquí."
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: "Información adicional"
+      description: "Cualquier otro detalle que consideres relevante."
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: "Antes de enviar"
+      options:
+        - label: "He comprobado que no existe ya una propuesta equivalente."
+          required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+
+        💜 **Gracias por compartir tu idea.**
+
+        SugoiYomi nació precisamente de querer construir una experiencia de lectura a mi gusto,
+        así que las buenas ideas siempre son bienvenidas.
