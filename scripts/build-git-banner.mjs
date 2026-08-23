@@ -112,7 +112,7 @@ const svg = `
 
   <line x1="530" y1="392" x2="1070" y2="392" stroke="url(#lineGradient)" stroke-width="2"/>
 
-  <text x="800" y="430" text-anchor="middle" fill="#ffffff" font-size="24" font-weight="520" font-family="Inter, Segoe UI, Arial, sans-serif">Tu rincón de lectura para manga local, remoto y offline-first.</text>
+  <text x="800" y="430" text-anchor="middle" fill="#ffffff" font-size="24" font-weight="520" font-family="Inter, Segoe UI, Arial, sans-serif">Tu rincón de lectura</text>
   <text x="800" y="465" text-anchor="middle" fill="#a1a1aa" font-size="17" font-family="Inter, Segoe UI, Arial, sans-serif">Windows disponible · Android &amp; iOS en desarrollo</text>
 
   <g transform="translate(46 0)">
