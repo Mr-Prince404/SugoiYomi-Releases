@@ -1,4 +1,5 @@
 <div align="center">
+
   <img src="docs/screenshots/icon.png" width="132" alt="Icono de SugoiYomi" />
 
 # SugoiYomi
@@ -147,35 +148,24 @@ Entre los pilares de SugoiYomi Mobile se encuentran:
 ### Vista previa móvil
 
 <div align="center">
-  <sub>Primer vistazo visual de SugoiYomi Mobile en ambas plataformas.</sub>
-</div>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <strong>Android</strong>
-    </td>
-    <td align="center" width="50%">
-      <strong>iOS</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="docs/screenshots/android.png" alt="Vista previa de SugoiYomi Mobile en Android" width="88%" />
-    </td>
-    <td align="center">
-      <img src="docs/screenshots/iOS.png" alt="Vista previa de SugoiYomi Mobile en iOS" width="88%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <sub>Interfaz móvil de SugoiYomi en Android</sub>
-    </td>
-    <td align="center">
-      <sub>Interfaz móvil de SugoiYomi en iOS</sub>
-    </td>
-  </tr>
-</table>
+<sub>Primer vistazo visual de SugoiYomi Mobile en Android e iOS.</sub>
+
+  <br />
+  <br />
+
+<img
+ src="docs/screenshots/mobile-showcase.svg"
+ alt="Vista previa de SugoiYomi Mobile en Android e iOS"
+ width="100%"
+/>
+
+  <br />
+  <br />
+
+<sub>Android e iOS están siendo desarrollados en paralelo como parte de una misma experiencia móvil.</sub>
+
+</div>
 
 ### Android & iOS — En desarrollo
 
