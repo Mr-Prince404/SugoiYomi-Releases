@@ -113,9 +113,6 @@ La versión pública actual de SugoiYomi está disponible para **Windows 10 y Wi
 
 ### La biblioteca está a punto de salir del escritorio.
 
-![Android](https://img.shields.io/badge/Android-EN%20DESARROLLO-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-EN%20DESARROLLO-111827?style=for-the-badge&logo=apple&logoColor=white)
-
 </div>
 
 **SugoiYomi Mobile ya se encuentra oficialmente en desarrollo para Android e iOS.**
