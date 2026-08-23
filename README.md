@@ -2,11 +2,7 @@
 
   <img src="docs/screenshots/git-banner.svg" width="100%" alt="Banner de SugoiYomi" />
 
-# SugoiYomi
-
-### Tu rincón de lectura para manga local, remoto y offline-first 🌙
-
-**Disponible en Windows · Android & iOS en desarrollo**
+  <br />
 
   <p>
     <a href="https://github.com/Mr-Prince404/SugoiYomi-Releases/releases/latest"><strong>⬇️ Descargar SugoiYomi para Windows</strong></a>
@@ -20,10 +16,10 @@
     <a href="#reportar-un-problema">Reportar un problema</a>
   </p>
 
-![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-38bdf8?style=for-the-badge&logo=windows&logoColor=white)
-![Versión](https://img.shields.io/badge/versión-1.0.2-a855f7?style=for-the-badge)
-![Android](https://img.shields.io/badge/Android-en%20desarrollo-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-en%20desarrollo-111827?style=for-the-badge&logo=apple&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-38bdf8?style=for-the-badge&logo=windows&logoColor=white)
+  ![Versión](https://img.shields.io/badge/versión-1.0.2-a855f7?style=for-the-badge)
+  ![Android](https://img.shields.io/badge/Android-en%20desarrollo-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  ![iOS](https://img.shields.io/badge/iOS-en%20desarrollo-111827?style=for-the-badge&logo=apple&logoColor=white)
 
 </div>
 
@@ -64,7 +60,7 @@ Este proyecto seguirá creciendo poco a poco, con actualizaciones enfocadas en r
 
 ---
 
-## 💬 Una mirada rápida
+## 💬 Y bueno...
 
 <div align="center">
 
@@ -168,8 +164,6 @@ Entre los pilares de SugoiYomi Mobile se encuentran:
 La aplicación comparte una misma base tecnológica y una arquitectura común entre ambas plataformas, permitiendo que sus principales funciones evolucionen de forma conjunta.
 
 Biblioteca, lector, sistema de fuentes, descargas, historial, navegación, almacenamiento y rendimiento forman parte de un mismo proceso de desarrollo móvil, con las adaptaciones necesarias para que cada plataforma conserve una experiencia coherente con su ecosistema.
-
-El objetivo es que ninguna de las dos plataformas represente una edición secundaria de SugoiYomi Mobile. **Android e iOS forman parte del mismo producto, del mismo proceso de desarrollo y del mismo lanzamiento.**
 
 La primera versión pública será publicada simultáneamente para ambas plataformas cuando SugoiYomi Mobile alcance el nivel de estabilidad, rendimiento y calidad previsto para su lanzamiento.
 
