@@ -36,9 +36,11 @@ Actualmente puedes disfrutar de la versión de **Windows**, con soporte para bib
 
 Pero SugoiYomi ya no termina en el escritorio.
 
-**SugoiYomi se encuentra actualmente en desarrollo para Android e iOS**, con ambas plataformas avanzando en paralelo hacia su primera versión pública.
+**SugoiYomi Mobile se encuentra actualmente en desarrollo para Android e iOS**, con ambas plataformas avanzando en paralelo hacia su primera versión pública.
 
 La experiencia móvil está siendo construida desde una arquitectura compartida, manteniendo las características principales de SugoiYomi mientras cada plataforma recibe las adaptaciones necesarias para ofrecer una experiencia natural dentro de Android e iOS.
+
+El objetivo es que **SugoiYomi Mobile debute simultáneamente en Android e iOS**, ofreciendo desde su primer lanzamiento la misma base de biblioteca, lectura, fuentes, descargas, historial y experiencia offline en ambas plataformas.
 
 La idea sigue siendo la misma desde el principio:
 
@@ -125,7 +127,7 @@ La versión pública actual de SugoiYomi está disponible para **Windows 10 y Wi
 
 </div>
 
-**SugoiYomi ya se encuentra oficialmente en desarrollo para Android e iOS.**
+**SugoiYomi Mobile ya se encuentra oficialmente en desarrollo para Android e iOS.**
 
 Ambas plataformas están siendo desarrolladas en paralelo como parte de una misma aplicación móvil, compartiendo arquitectura, comportamiento y funcionalidades siempre que sea posible, pero respetando al mismo tiempo las características y convenciones propias de cada sistema.
 
@@ -142,6 +144,39 @@ Entre los pilares de SugoiYomi Mobile se encuentran:
 * ⚡ Especial atención al rendimiento y consumo de memoria.
 * 📱 Experiencia adaptada individualmente a Android y iOS.
 
+### Vista previa móvil
+
+<div align="center">
+  <sub>Primer vistazo visual de SugoiYomi Mobile en ambas plataformas.</sub>
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Android</strong>
+    </td>
+    <td align="center" width="50%">
+      <strong>iOS</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="docs/screenshots/android.png" alt="Vista previa de SugoiYomi Mobile en Android" width="88%" />
+    </td>
+    <td align="center">
+      <img src="docs/screenshots/iOS.png" alt="Vista previa de SugoiYomi Mobile en iOS" width="88%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <sub>Interfaz móvil de SugoiYomi en Android</sub>
+    </td>
+    <td align="center">
+      <sub>Interfaz móvil de SugoiYomi en iOS</sub>
+    </td>
+  </tr>
+</table>
+
 ### Android & iOS — En desarrollo
 
 **SugoiYomi Mobile está siendo desarrollado simultáneamente para Android e iOS.**
@@ -149,6 +184,8 @@ Entre los pilares de SugoiYomi Mobile se encuentran:
 La aplicación comparte una misma base tecnológica y una arquitectura común entre ambas plataformas, permitiendo que sus principales funciones evolucionen de forma conjunta.
 
 Biblioteca, lector, sistema de fuentes, descargas, historial, navegación, almacenamiento y rendimiento forman parte de un mismo proceso de desarrollo móvil, con las adaptaciones necesarias para que cada plataforma conserve una experiencia coherente con su ecosistema.
+
+El objetivo es que ninguna de las dos plataformas represente una edición secundaria de SugoiYomi Mobile. **Android e iOS forman parte del mismo producto, del mismo proceso de desarrollo y del mismo lanzamiento.**
 
 La primera versión pública será publicada simultáneamente para ambas plataformas cuando SugoiYomi Mobile alcance el nivel de estabilidad, rendimiento y calidad previsto para su lanzamiento.
 
@@ -211,17 +248,18 @@ SugoiYomi continúa evolucionando tanto en escritorio como en móvil.
 
 ### 📱 Mobile
 
-* Desarrollo simultáneo de **SugoiYomi para Android e iOS**.
+* Desarrollo simultáneo de **SugoiYomi Mobile para Android e iOS**.
 * Optimización de rendimiento, memoria y tiempos de carga.
 * Pulido del lector táctil.
 * Descargas y experiencia offline.
 * Integración y estabilización del sistema de fuentes.
 * Adaptación de interfaz y comportamiento a las particularidades de Android e iOS.
 * Validación funcional y de rendimiento en ambas plataformas.
+* Lanzamiento simultáneo de **SugoiYomi Mobile para Android e iOS**.
 
 El objetivo no es lanzar por lanzar.
 
-La primera versión de SugoiYomi Mobile estará disponible en **Android e iOS**, cuando ambas plataformas tengan la estabilidad, rendimiento y calidad que quiero para SugoiYomi.
+La primera versión de SugoiYomi Mobile estará disponible en **Android e iOS al mismo tiempo**, cuando ambas plataformas tengan la estabilidad, rendimiento y calidad que quiero para SugoiYomi.
 
 ---
 
