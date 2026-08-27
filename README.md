@@ -7,6 +7,8 @@
   <p>
     <a href="https://github.com/Mr-Prince404/SugoiYomi-Releases/releases/latest"><strong>⬇️ Descargar SugoiYomi para Windows</strong></a>
     ·
+    <a href="#desktop-20">Desktop 2.0</a>
+    ·
     <a href="#capturas">Ver capturas</a>
     ·
     <a href="#-sugoiyomi-mobile">SugoiYomi Mobile</a>
@@ -18,6 +20,7 @@
 
   ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-38bdf8?style=for-the-badge&logo=windows&logoColor=white)
   ![Versión](https://img.shields.io/badge/versión-1.0.2-a855f7?style=for-the-badge)
+  ![Desktop 2.0](https://img.shields.io/badge/Desktop%202.0-próximamente-7c3aed?style=for-the-badge)
   ![Android](https://img.shields.io/badge/Android-en%20desarrollo-3DDC84?style=for-the-badge&logo=android&logoColor=white)
   ![iOS](https://img.shields.io/badge/iOS-en%20desarrollo-111827?style=for-the-badge&logo=apple&logoColor=white)
 
@@ -71,6 +74,36 @@ Este proyecto seguirá creciendo poco a poco, con actualizaciones enfocadas en r
 * 🗂️ Consultar historial, progreso y capítulos vistos.
 * 🔄 Actualizar fuentes, capítulos y portadas cuando estén disponibles.
 * 🛟 Exportar, importar o restaurar los datos de la aplicación.
+
+---
+
+<a id="desktop-20"></a>
+
+## ✨ SugoiYomi Desktop 2.0 — Próximamente
+
+<div align="center">
+
+<img src="docs/screenshots/desktop-v2-showcase.svg" width="100%" alt="Vista previa de SugoiYomi Desktop 2.0" />
+
+<br />
+
+<sub>Vista previa de la versión 2.0 actualmente en fase de pruebas.</sub>
+
+</div>
+
+**SugoiYomi Desktop está preparando su siguiente gran actualización.** La versión **2.0** supone un upgrade visual y de funcionalidades que renueva la experiencia de escritorio manteniendo la idea central del proyecto: leer, organizar y descubrir contenido de una forma cómoda y directa.
+
+La nueva interfaz ya se encuentra en **fase de pruebas** y continúa recibiendo ajustes antes de su lanzamiento público. En esta etapa el trabajo está especialmente centrado en **estabilidad, rendimiento y consistencia**, además de seguir puliendo la biblioteca, el lector, las fuentes, las extensiones, las actualizaciones y el historial.
+
+El objetivo no es publicar la versión 2.0 hasta que la experiencia se sienta sólida, fluida y preparada para el uso diario.
+
+<div align="center">
+
+**Lanzamiento oficial: próximamente.**
+
+<sub>Las capturas corresponden a una compilación en desarrollo y algunos elementos pueden cambiar antes del lanzamiento.</sub>
+
+</div>
 
 ---
 
