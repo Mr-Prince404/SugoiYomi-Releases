@@ -107,7 +107,7 @@ El desarrollo continúa y SugoiYomi Desktop seguirá recibiendo correcciones, me
 
 ---
 
-## Capturas
+## Capturas (versión 1.0.N)
 
 <div align="center">
 
