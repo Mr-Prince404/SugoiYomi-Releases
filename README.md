@@ -30,39 +30,43 @@
 
   </p>
 
-  
+  ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-38bdf8?style=for-the-badge&logo=windows&logoColor=white)
 
-  
+  ![Versión](https://img.shields.io/badge/versión-2.0.0-a855f7?style=for-the-badge)
 
-  
+  ![Desktop 2.0](https://img.shields.io/badge/Desktop%202.0-disponible-7c3aed?style=for-the-badge)
 
-  
+  ![Android](https://img.shields.io/badge/Android-en%20desarrollo-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-  
+  ![iOS](https://img.shields.io/badge/iOS-en%20desarrollo-111827?style=for-the-badge&logo=apple&logoColor=white)
 
 </div>
 
-🌙 ¿Qué es SugoiYomi?
+---
 
-SugoiYomi es un proyecto personal creado para ofrecer una experiencia de lectura de manga moderna, cómoda y centrada en tu biblioteca.
+## 🌙 ¿Qué es SugoiYomi?
 
-Actualmente puedes disfrutar de SugoiYomi Desktop 2.0 para Windows, con biblioteca, fuentes instalables, lectura online y offline, descargas, historial, progreso y diferentes modos de lectura.
+**SugoiYomi** es un proyecto personal creado para ofrecer una experiencia de lectura de manga moderna, cómoda y centrada en tu biblioteca.
+
+Actualmente puedes disfrutar de **SugoiYomi Desktop 2.0 para Windows**, con biblioteca, fuentes instalables, lectura online y offline, descargas, historial, progreso y diferentes modos de lectura.
 
 Pero SugoiYomi ya no termina en el escritorio.
 
-SugoiYomi Mobile se encuentra actualmente en desarrollo para Android e iOS, con ambas plataformas avanzando en paralelo hacia su primera versión pública.
+**SugoiYomi Mobile se encuentra actualmente en desarrollo para Android e iOS**, con ambas plataformas avanzando en paralelo hacia su primera versión pública.
 
 La experiencia móvil está siendo construida desde una arquitectura compartida, manteniendo las características principales de SugoiYomi mientras cada plataforma recibe las adaptaciones necesarias para ofrecer una experiencia natural dentro de Android e iOS.
 
-El objetivo es que SugoiYomi Mobile debute simultáneamente en Android e iOS, ofreciendo desde su primer lanzamiento la misma base de biblioteca, lectura, fuentes, descargas, historial y experiencia offline en ambas plataformas.
+El objetivo es que **SugoiYomi Mobile debute simultáneamente en Android e iOS**, ofreciendo desde su primer lanzamiento la misma base de biblioteca, lectura, fuentes, descargas, historial y experiencia offline en ambas plataformas.
 
 La idea sigue siendo la misma desde el principio:
 
-Tu biblioteca. Tus fuentes. Tu progreso. Tu forma de leer.
+> **Tu biblioteca. Tus fuentes. Tu progreso. Tu forma de leer.**
 
 Este proyecto seguirá creciendo poco a poco, con actualizaciones enfocadas en rendimiento, estabilidad, experiencia de lectura y mejoras que realmente aporten valor. ✨
 
-💬 Y bueno...
+---
+
+## 💬 Y bueno...
 
 <div align="center">
 
@@ -74,27 +78,31 @@ Este proyecto seguirá creciendo poco a poco, con actualizaciones enfocadas en r
 
 </div>
 
-✨ Lo que puedes hacer
+---
 
-📚 Organizar tu biblioteca en un solo lugar.
+## ✨ Lo que puedes hacer
 
-🔎 Instalar fuentes y explorar obras desde diferentes catálogos.
+* 📚 Organizar una biblioteca local y remota en un solo lugar.
 
-📖 Leer en modo Página o Cascada.
+* 🔎 Instalar fuentes y explorar obras desde diferentes catálogos.
 
-🧭 Reanudar exactamente desde donde dejaste tu lectura.
+* 📖 Leer en modo **Página** o **Cascada**.
 
-💾 Descargar capítulos en .cbz para disfrutarlos sin conexión.
+* 🧭 Reanudar exactamente desde donde dejaste tu lectura.
 
-🗂️ Consultar historial, progreso y capítulos vistos.
+* 💾 Descargar capítulos en `.cbz` para disfrutarlos sin conexión.
 
-🔄 Actualizar fuentes, capítulos y portadas cuando estén disponibles.
+* 🗂️ Consultar historial, progreso y capítulos vistos.
 
-🛟 Exportar, importar o restaurar los datos de la aplicación.
+* 🔄 Actualizar fuentes, capítulos y portadas cuando estén disponibles.
+
+* 🛟 Exportar, importar o restaurar los datos de la aplicación.
+
+---
 
 <a id="desktop-20"></a>
 
-✨ SugoiYomi Desktop 2.0 — Disponible
+## ✨ SugoiYomi Desktop 2.0 — Disponible
 
 <div align="center">
 
@@ -106,23 +114,25 @@ Este proyecto seguirá creciendo poco a poco, con actualizaciones enfocadas en r
 
 </div>
 
-SugoiYomi Desktop 2.0 ya está disponible. Esta versión supone una renovación visual y funcional de la experiencia de escritorio, manteniendo la idea central del proyecto: leer, organizar y descubrir contenido de una forma cómoda y directa.
+**SugoiYomi Desktop 2.0 ya está disponible.** Esta versión supone una renovación visual y funcional de la experiencia de escritorio, manteniendo la idea central del proyecto: leer, organizar y descubrir contenido de una forma cómoda y directa.
 
-La versión 2.0.0 llega como una preview pública de la nueva generación de SugoiYomi Desktop. Biblioteca, lector, fuentes, extensiones, actualizaciones e historial han recibido una renovación importante, junto con numerosos ajustes de estabilidad, rendimiento y consistencia.
+La versión **2.0.0** ya puede descargarse públicamente y reúne una renovación importante de la biblioteca, el lector, las fuentes, las extensiones, las actualizaciones y el historial, junto con numerosos ajustes de **estabilidad, rendimiento y consistencia**.
 
-El desarrollo continúa y la experiencia seguirá recibiendo mejoras, correcciones y refinamientos a partir de los reportes y pruebas de esta versión pública.
+El desarrollo continúa y SugoiYomi Desktop seguirá recibiendo correcciones, mejoras de rendimiento y nuevos refinamientos después de esta versión.
 
 <div align="center">
 
-Disponible ahora para Windows 10 y Windows 11.
+**Disponible ahora para Windows 10 y Windows 11.**
 
 <sub>La interfaz seguirá evolucionando y algunos elementos pueden cambiar en futuras actualizaciones.</sub>
 
 </div>
 
+---
 
 
-Capturas
+
+## Capturas
 
 <div align="center">
 
@@ -134,15 +144,17 @@ Capturas
 
 </div>
 
-⬇️ Instalación
+---
 
-🖥️ Windows
+## ⬇️ Instalación
 
-La versión pública actual, SugoiYomi Desktop 2.0.0, está disponible para Windows 10 y Windows 11 de 64 bits.
+### 🖥️ Windows
 
-Entra a la sección de Releases.
+La versión pública actual, **SugoiYomi Desktop 2.0.0**, está disponible para **Windows 10 y Windows 11 de 64 bits**.
 
-Descarga el instalador recomendado:
+1. Entra a la sección de [Releases](https://github.com/Mr-Prince404/SugoiYomi-Releases/releases/latest).
+
+2. Descarga el instalador recomendado:
 
    ```text
 
@@ -150,21 +162,23 @@ Descarga el instalador recomendado:
 
    ```
 
-Ejecuta el instalador.
+3. Ejecuta el instalador.
 
-Abre SugoiYomi.
+4. Abre SugoiYomi.
 
-Instala una fuente desde Explorar y empieza a construir tu biblioteca.
+5. Instala una fuente desde **Explorar** y empieza a construir tu biblioteca.
 
-📱 SugoiYomi Mobile
+---
+
+## 📱 SugoiYomi Mobile
 
 <div align="center">
 
-La biblioteca está a punto de salir del escritorio.
+### La biblioteca está a punto de salir del escritorio.
 
 </div>
 
-SugoiYomi Mobile ya se encuentra oficialmente en desarrollo para Android e iOS.
+**SugoiYomi Mobile ya se encuentra oficialmente en desarrollo para Android e iOS.**
 
 Ambas plataformas están siendo desarrolladas en paralelo como parte de una misma aplicación móvil, compartiendo arquitectura, comportamiento y funcionalidades siempre que sea posible, pero respetando al mismo tiempo las características y convenciones propias de cada sistema.
 
@@ -172,23 +186,23 @@ La versión móvil no busca ser simplemente una adaptación de la interfaz de es
 
 Entre los pilares de SugoiYomi Mobile se encuentran:
 
-📚 Biblioteca optimizada para colecciones grandes.
+* 📚 Biblioteca optimizada para colecciones grandes.
 
-🔎 Exploración y búsqueda mediante fuentes.
+* 🔎 Exploración y búsqueda mediante fuentes.
 
-📖 Lector de página y lectura continua.
+* 📖 Lector de página y lectura continua.
 
-🤏 Zoom, gestos táctiles y navegación diseñada para móvil.
+* 🤏 Zoom, gestos táctiles y navegación diseñada para móvil.
 
-💾 Descargas y lectura offline.
+* 💾 Descargas y lectura offline.
 
-🧭 Historial y reanudación de lectura.
+* 🧭 Historial y reanudación de lectura.
 
-⚡ Especial atención al rendimiento y consumo de memoria.
+* ⚡ Especial atención al rendimiento y consumo de memoria.
 
-📱 Experiencia adaptada individualmente a Android y iOS.
+* 📱 Experiencia adaptada individualmente a Android y iOS.
 
-Vista previa móvil
+### Vista previa móvil
 
 <div align="center">
 
@@ -216,9 +230,9 @@ Vista previa móvil
 
 </div>
 
-Android & iOS — En desarrollo
+### Android & iOS — En desarrollo
 
-SugoiYomi Mobile está siendo desarrollado simultáneamente para Android e iOS.
+**SugoiYomi Mobile está siendo desarrollado simultáneamente para Android e iOS.**
 
 La aplicación comparte una misma base tecnológica y una arquitectura común entre ambas plataformas, permitiendo que sus principales funciones evolucionen de forma conjunta.
 
@@ -228,15 +242,17 @@ La primera versión pública será publicada simultáneamente para ambas platafo
 
 <div align="center">
 
-Windows ✅    Android    iOS
+### Windows ✅    Android    iOS
 
-Próximo lanzamiento: SugoiYomi Mobile para Android & iOS
+**Próximo lanzamiento: SugoiYomi Mobile para Android & iOS**
 
 </div>
 
-🧩 Tecnologías del proyecto
+---
 
-SugoiYomi Desktop
+## 🧩 Tecnologías del proyecto
+
+### SugoiYomi Desktop
 
 | Área                     | Tecnologías            |
 
@@ -264,7 +280,7 @@ SugoiYomi Desktop
 
 | Instalador               | NSIS / MSI             |
 
-SugoiYomi Mobile
+### SugoiYomi Mobile
 
 | Área               | Tecnologías                             |
 
@@ -288,47 +304,51 @@ SugoiYomi Mobile
 
 | Fuentes remotas    | Runtime y motor de fuentes de SugoiYomi |
 
-🗺️ El camino de SugoiYomi
+---
+
+## 🗺️ El camino de SugoiYomi
 
 SugoiYomi continúa evolucionando tanto en escritorio como en móvil.
 
-🖥️ Windows
+### 🖥️ Windows
 
-Mejoras continuas de rendimiento y consumo de recursos.
+* Mejoras continuas de rendimiento y consumo de recursos.
 
-Pulido adicional del lector y navegación.
+* Pulido adicional del lector y navegación.
 
-Más opciones de personalización.
+* Más opciones de personalización.
 
-Mejoras de accesibilidad.
+* Mejoras de accesibilidad.
 
-Nuevas herramientas de organización.
+* Nuevas herramientas de organización.
 
-Correcciones reportadas por la comunidad.
+* Correcciones reportadas por la comunidad.
 
-📱 Mobile
+### 📱 Mobile
 
-Desarrollo simultáneo de SugoiYomi Mobile para Android e iOS.
+* Desarrollo simultáneo de **SugoiYomi Mobile para Android e iOS**.
 
-Optimización de rendimiento, memoria y tiempos de carga.
+* Optimización de rendimiento, memoria y tiempos de carga.
 
-Pulido del lector táctil.
+* Pulido del lector táctil.
 
-Descargas y experiencia offline.
+* Descargas y experiencia offline.
 
-Integración y estabilización del sistema de fuentes.
+* Integración y estabilización del sistema de fuentes.
 
-Adaptación de interfaz y comportamiento a las particularidades de Android e iOS.
+* Adaptación de interfaz y comportamiento a las particularidades de Android e iOS.
 
-Validación funcional y de rendimiento en ambas plataformas.
+* Validación funcional y de rendimiento en ambas plataformas.
 
-Lanzamiento simultáneo de SugoiYomi Mobile para Android e iOS.
+* Lanzamiento simultáneo de **SugoiYomi Mobile para Android e iOS**.
 
 El objetivo no es lanzar por lanzar.
 
-La primera versión de SugoiYomi Mobile estará disponible en Android e iOS al mismo tiempo, cuando ambas plataformas tengan la estabilidad, rendimiento y calidad que quiero para SugoiYomi.
+La primera versión de SugoiYomi Mobile estará disponible en **Android e iOS al mismo tiempo**, cuando ambas plataformas tengan la estabilidad, rendimiento y calidad que quiero para SugoiYomi.
 
-💜 Apoyar el proyecto
+---
+
+## 💜 Apoyar el proyecto
 
 SugoiYomi es un proyecto personal desarrollado y mantenido de manera independiente.
 
@@ -346,17 +366,21 @@ Si te gusta, te resulta útil o simplemente quieres ayudar a que continúe creci
 
 Cada apoyo, reporte, sugerencia o persona que prueba SugoiYomi también ayuda al proyecto a seguir adelante. 💜
 
-Reportar un problema
+---
+
+## Reportar un problema
 
 ¿Encontraste un error, una fuente que dejó de funcionar o tienes una idea para mejorar SugoiYomi?
 
 Elige el tipo de reporte que quieras crear:
 
-** Reportar un error o proponer una mejora**
+[** Reportar un error o proponer una mejora**](https://github.com/Mr-Prince404/SugoiYomi-Releases/issues/new/choose)
 
 Los formularios te guiarán para incluir la información necesaria.
 
-⚠️ Aviso importante
+---
+
+## ⚠️ Aviso importante
 
 SugoiYomi no distribuye ni aloja contenido propio.
 
@@ -364,17 +388,21 @@ Las fuentes, catálogos y servicios externos utilizados mediante la aplicación 
 
 Cada persona es responsable del uso que dé a las fuentes instaladas y al contenido al que acceda mediante ellas.
 
-Autor
+---
 
-Desarrollado por Mr-Prince404.
+## Autor
+
+Desarrollado por **Mr-Prince404**.
 
 Hecho con curiosidad, capricho, incontables pruebas, algunas madrugadas cuestionables y una obsesión por construir una experiencia de lectura bonita.
 
+---
+
 <div align="center">
 
-🌙 SugoiYomi
+### 🌙 SugoiYomi
 
-Read your way. Anywhere.
+**Read your way. Anywhere.**
 
 <sub>Gracias por probar SugoiYomi y acompañar su crecimiento.</sub>
 
