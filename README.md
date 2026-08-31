@@ -18,11 +18,11 @@
     <a href="https://github.com/Mr-Prince404/SugoiYomi-Releases/issues/new/choose">Reportar un problema</a>
   </p>
 
-  ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-38bdf8?style=for-the-badge&logo=windows&logoColor=white)
-  ![Versión](https://img.shields.io/badge/versión-1.0.2-a855f7?style=for-the-badge)
-  ![Desktop 2.0](https://img.shields.io/badge/Desktop%202.0-próximamente-7c3aed?style=for-the-badge)
-  ![Android](https://img.shields.io/badge/Android-en%20desarrollo-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-  ![iOS](https://img.shields.io/badge/iOS-en%20desarrollo-111827?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-38bdf8?style=for-the-badge\&logo=windows\&logoColor=white)
+![Versión](https://img.shields.io/badge/versión-2.0.0-a855f7?style=for-the-badge)
+![Desktop 2.0](https://img.shields.io/badge/Desktop%202.0-disponible-7c3aed?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-en%20desarrollo-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-en%20desarrollo-111827?style=for-the-badge\&logo=apple\&logoColor=white)
 
 </div>
 
@@ -32,7 +32,7 @@
 
 **SugoiYomi** es un proyecto personal creado para ofrecer una experiencia de lectura de manga moderna, cómoda y centrada en tu biblioteca.
 
-Actualmente puedes disfrutar de la versión de **Windows**, con soporte para biblioteca local y remota, fuentes instalables, lectura online y offline, descargas, historial, progreso y diferentes modos de lectura.
+Actualmente puedes disfrutar de **SugoiYomi Desktop 2.0 para Windows**, con biblioteca local y remota, fuentes instalables, lectura online y offline, descargas, historial, progreso y diferentes modos de lectura.
 
 Pero SugoiYomi ya no termina en el escritorio.
 
@@ -79,7 +79,7 @@ Este proyecto seguirá creciendo poco a poco, con actualizaciones enfocadas en r
 
 <a id="desktop-20"></a>
 
-## ✨ SugoiYomi Desktop 2.0 — Próximamente
+## ✨ SugoiYomi Desktop 2.0 — Disponible
 
 <div align="center">
 
@@ -87,26 +87,25 @@ Este proyecto seguirá creciendo poco a poco, con actualizaciones enfocadas en r
 
 <br />
 
-<sub>Vista previa de la versión 2.0 actualmente en fase de pruebas.</sub>
+<sub>SugoiYomi Desktop 2.0 ya está disponible para Windows.</sub>
 
 </div>
 
-**SugoiYomi Desktop está preparando su siguiente gran actualización.** La versión **2.0** supone un upgrade visual y de funcionalidades que renueva la experiencia de escritorio manteniendo la idea central del proyecto: leer, organizar y descubrir contenido de una forma cómoda y directa.
+**SugoiYomi Desktop 2.0 ya está disponible.** Esta versión supone una renovación visual y funcional de la experiencia de escritorio, manteniendo la idea central del proyecto: leer, organizar y descubrir contenido de una forma cómoda y directa.
 
-La nueva interfaz ya se encuentra en **fase de pruebas** y continúa recibiendo ajustes antes de su lanzamiento público. En esta etapa el trabajo está especialmente centrado en **estabilidad, rendimiento y consistencia**, además de seguir puliendo la biblioteca, el lector, las fuentes, las extensiones, las actualizaciones y el historial.
+La versión **2.0.0** reúne una renovación importante de la biblioteca, el lector, las fuentes, las extensiones, las actualizaciones y el historial, junto con numerosos ajustes de **estabilidad, rendimiento y consistencia**.
 
-El objetivo no es publicar la versión 2.0 hasta que la experiencia se sienta sólida, fluida y preparada para el uso diario.
+El desarrollo continúa y SugoiYomi Desktop seguirá recibiendo correcciones, mejoras de rendimiento y nuevos refinamientos después de esta versión.
 
 <div align="center">
 
-**Lanzamiento oficial: próximamente.**
+**Disponible ahora para Windows 10 y Windows 11.**
 
-<sub>Las capturas corresponden a una compilación en desarrollo y algunos elementos pueden cambiar antes del lanzamiento.</sub>
+<sub>La interfaz seguirá evolucionando y algunos elementos pueden cambiar en futuras actualizaciones.</sub>
 
 </div>
 
 ---
-
 
 ## Capturas
 
@@ -126,14 +125,15 @@ El objetivo no es publicar la versión 2.0 hasta que la experiencia se sienta s�
 
 ### 🖥️ Windows
 
-La versión pública actual de SugoiYomi está disponible para **Windows 10 y Windows 11 de 64 bits**.
+La versión pública actual, **SugoiYomi Desktop 2.0.0**, está disponible para **Windows 10 y Windows 11 de 64 bits**.
 
 1. Entra a la sección de [Releases](https://github.com/Mr-Prince404/SugoiYomi-Releases/releases/latest).
+
 2. Descarga el instalador recomendado:
 
-   ```text
-   SugoiYomi_1.0.2_x64-setup.exe
-   ```
+```text
+SugoiYomi_2.0.0_x64-setup.exe
+```
 
 3. Ejecuta el instalador.
 4. Abre SugoiYomi.
@@ -176,9 +176,9 @@ Entre los pilares de SugoiYomi Mobile se encuentran:
 <br />
 
 <img
- src="docs/screenshots/mobile-showcase.svg"
- alt="Vista previa de SugoiYomi Mobile en Android e iOS"
- width="100%"
+src="docs/screenshots/mobile-showcase.svg"
+alt="Vista previa de SugoiYomi Mobile en Android e iOS"
+width="100%"
 />
 
 <br />
@@ -200,7 +200,7 @@ La primera versión pública será publicada simultáneamente para ambas platafo
 
 <div align="center">
 
-### Windows ✅    Android    iOS
+### Windows ✅    Android    iOS
 
 **Próximo lanzamiento: SugoiYomi Mobile para Android & iOS**
 
@@ -279,9 +279,11 @@ SugoiYomi es un proyecto personal desarrollado y mantenido de manera independien
 Si te gusta, te resulta útil o simplemente quieres ayudar a que continúe creciendo, una donación ayuda a cubrir tiempo de desarrollo, infraestructura, dispositivos de prueba y futuras mejoras.
 
 <div align="center">
+
   <a href="https://ko-fi.com/mrprince404">
     <img src="https://img.shields.io/badge/Apoyar%20en-Ko--fi-ff5e5b?style=for-the-badge&logo=kofi&logoColor=white" alt="Apoyar en Ko-fi" />
   </a>
+
 </div>
 
 Cada apoyo, reporte, sugerencia o persona que prueba SugoiYomi también ayuda al proyecto a seguir adelante. 💜
@@ -294,7 +296,7 @@ Cada apoyo, reporte, sugerencia o persona que prueba SugoiYomi también ayuda al
 
 Elige el tipo de reporte que quieras crear:
 
-[** Reportar un error o proponer una mejora**](https://github.com/Mr-Prince404/SugoiYomi-Releases/issues/new/choose)
+[**Reportar un error o proponer una mejora**](https://github.com/Mr-Prince404/SugoiYomi-Releases/issues/new/choose)
 
 Los formularios te guiarán para incluir la información necesaria.
 
